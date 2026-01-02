@@ -23,7 +23,7 @@ This is a classic **Caro (Gomoku)** strategy board game developed using **Java S
 ###  How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Nguyenchicuong34/](https://github.com/Nguyenchicuong34/)[Ten-Repo-Cua-Ban].git
+    git clone [https://github.com/Nguyenchicuong34/](https://github.com/Nguyenchicuong34/GAME_CARO_BASIC].git
     ```
 2.  **Open in IDE:**
     Open the project in IntelliJ IDEA, Eclipse, or NetBeans.
